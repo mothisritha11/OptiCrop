@@ -112,15 +112,14 @@ http://127.0.0.1:5000/
 
 ## 📈 Output
 
-* Recommended Crop Name
+* chick pea
 
 ---
 
 ## 📷 Screenshots
 
-(Add screenshots of your UI here)
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -133,9 +132,8 @@ http://127.0.0.1:5000/
 
 ## 👩‍💻 Author
 
-* Mothi Sritha
-
----
+* K Mothi Sritha
+* ---
 
 ## ⭐ Conclusion
 
