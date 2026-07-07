@@ -64,19 +64,6 @@ OptiCrop/
 │── assets/              # Screenshots/images
 │── README.md            # Project documentation
 ```
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/home.png" width="700">
-
-### 📋 Input Form
-
-<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/form.png" width="700">
-
-### 🌾 Prediction Result
-
-<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/result.png" width="700">
 
 
 ## ⚙️ Installation & Setup
