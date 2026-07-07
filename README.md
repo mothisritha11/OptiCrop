@@ -23,18 +23,13 @@ OptiCrop is an intelligent, data-driven agriculture assistant designed to help f
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+![Home Page](assets/home.png)
 
-<img src="assets/home.png" width="700">
-
-### 📋 Input Form
-
-<img src="assets/form.png" width="700">
+### 📝 Input Form
+![Input Form](assets/form.png)
 
 ### 🌾 Prediction Result
-
-<img src="assets/result.png" width="700">
-
----
+![Result](assets/result.png)
 
 ## 📁 Project Structure
 
