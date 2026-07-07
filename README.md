@@ -97,16 +97,9 @@ http://127.0.0.1:5000/
 *
 ## 📸 Screenshots
 ```
-### Home page
-
-<img src="assets/home.png" width="700">
-### Input Form
-
-<img src="assets/form.png" width="700">
-
-### Prediction Result
-
-<img src="assets/result.png" width="700">
+![Home](Assets/home.png)
+![Input](Assets/input.png)
+![Result](Assets/result.png)
 
 ```
 
