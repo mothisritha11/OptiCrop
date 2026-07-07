@@ -19,6 +19,7 @@ OptiCrop is an intelligent, data-driven agriculture assistant designed to help f
 * **Backend:** Python, Flask / FastAPI
 * **Machine Learning / Deep Learning:** Scikit-Learn, TensorFlow / PyTorch, Pandas, NumPy
 * **Deployment:** Heroku / AWS / Render *(Update based on your deployment)*
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
