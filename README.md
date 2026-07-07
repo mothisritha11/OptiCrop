@@ -64,8 +64,19 @@ OptiCrop/
 │── assets/              # Screenshots/images
 │── README.md            # Project documentation
 ```
+## 📸 Screenshots
 
----
+### 🏠 Home Page
+
+<img src="assets/home.png" width="700">
+
+### 📋 Input Form
+
+<img src="assets/form.png" width="700">
+
+### 🌾 Prediction Result
+
+<img src="assets/result.png" width="700">
 
 ## ⚙️ Installation & Setup
 
@@ -93,23 +104,6 @@ python app.py
 ```
 http://127.0.0.1:5000/
 ```
----
-*
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-<img src="assets/home.png" width="700">
-
-### 📋 Input Form
-
-<img src="assets/form.png" width="700">
-
-### 🌾 Prediction Result
-
-<img src="assets/result.png" width="700">
-
-
 ## 🤖 Machine Learning Overview
 
 * The model is trained using supervised learning algorithms
