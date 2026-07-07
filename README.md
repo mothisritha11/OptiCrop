@@ -74,26 +74,17 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🖼️ Screenshots
-
-Add your screenshots using the following code:
-
-```markdown
 ## 📸 Screenshots
 
-### Home Page
-![Home](assets/home.png)
+### 🏠 Home Page
+![Home Page](assets/home.png)
 
-### Prediction Page
-![Prediction](assets/predict.png)
+### 📝 Input Form
+![Form Page](assets/form.png)
 
-### Result Page
-![Result](assets/result.png)
+### 🌾 Prediction Result
+![Result Page](assets/result.png)
 ```
-
-> ⚠️ Make sure your images are inside the **assets/** folder in your repository.
-
----
 
 ## 🧰 Development Tools
 
