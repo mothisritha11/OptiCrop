@@ -43,6 +43,20 @@ OptiCrop/
 │── requirements.txt      # Dependencies
 │── README.md             # Project documentation
 ```
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+<img src="assets/home.png" width="700">
+
+### 📋 Input Form
+
+<img src="assets/form.png" width="700">
+
+### 🌾 Prediction Result
+
+<img src="assets/result.png" width="700">
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -89,12 +103,6 @@ The trained model is saved as:
 ```
 model/model.pkl
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add your project screenshots here for better presentation)*
 
 ---
 
