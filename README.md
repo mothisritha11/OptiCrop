@@ -68,15 +68,16 @@ OptiCrop/
 
 ### 🏠 Home Page
 
-<img src="assets/home.png" width="700">
+<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/home.png" width="700">
 
 ### 📋 Input Form
 
-<img src="assets/form.png" width="700">
+<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/form.png" width="700">
 
 ### 🌾 Prediction Result
 
-<img src="assets/result.png" width="700">
+<img src="https://raw.githubusercontent.com/mothisritha11/OptiCrop/main/assets/result.png" width="700">
+
 
 ## ⚙️ Installation & Setup
 
