@@ -43,7 +43,16 @@ OptiCrop/
 │── requirements.txt      # Dependencies
 │── README.md             # Project documentation
 ```
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📋 Input Form
+![Form](screenshots/form.png)
+
+### 🌾 Prediction Result
+![Result](screenshots/result.png)
 ---
 
 ## ⚙️ Installation & Setup
