@@ -30,6 +30,18 @@ OptiCrop/
 ├── app.py              # Main Flask application entry point
 ├── requirements.txt    # Project dependencies
 └── README.md           # Documentation
+## 📱 Screenshots / Demo
+
+Here is a preview of the OptiCrop system in action:
+
+<p align="center">
+  <img src="assets/Screenshot 2026-07-07 123056.png" width="80%" alt="Dashboard Overview">
+  <br><br>
+  <img src="assets/Screenshot 2026-07-07 123127.png" width="80%" alt="Input Fields">
+  <br><br>
+  <img src="assets/Screenshot 2026-07-07 123145.png" width="80%" alt="Crop Prediction Result">
+</p>
+
 🛠️ Installation & Setup
 Follow these steps to run the project locally on your machine:
 
