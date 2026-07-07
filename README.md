@@ -112,7 +112,6 @@ model/model.pkl
 * 🌍 Weather API integration
 * 📊 Advanced analytics dashboard
 * 🌱 Fertilizer recommendation system
-
 ---
 
 ## 👩‍💻 Author
