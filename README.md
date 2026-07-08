@@ -64,6 +64,31 @@ OptiCrop/
 │── assets/              # Screenshots/images
 │── README.md            # Project documentation
 ```
+## 📸 Screenshots
+
+
+
+### 🏠 Home Page
+
+
+
+![Home Page](screenshots/home.png)
+
+
+
+### 🌱 Crop Prediction Input
+
+
+
+![Prediction Input](screenshots/input.png)
+
+
+
+### 📊 Prediction Result
+
+
+
+![Prediction Result](screenshots/output.png)
 
 
 ## ⚙️ Installation & Setup
