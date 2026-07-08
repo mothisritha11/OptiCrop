@@ -56,13 +56,14 @@ The main objective of this project is to:
 
 ```
 OptiCrop/
+│── dataset/              # Dataset used for training
+│── model/                # Saved ML model (model.pkl)
+│── static/               # CSS, JS, images
+│── templates/            # HTML files
+│── src/                  # Source code files
 │── app.py                # Main Flask application
-│── model.pkl            # Trained Machine Learning model
-│── requirements.txt     # Required Python libraries
-│── templates/           # HTML files
-│── static/              # CSS and assets
-│── assets/              # Screenshots/images
-│── README.md            # Project documentation
+│── requirements.txt      # Dependencies
+│── README.md             # Project documentation
 ```
 ## 📸 Screenshots
 
